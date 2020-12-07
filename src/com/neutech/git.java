@@ -7,6 +7,6 @@ public class git {
         System.out.println("xiaozhan");
         System.out.println("xiaozhan");
         System.out.println("xiaozhan");
-        System.out.println("2分支测试");
+        System.out.println("测试");
     }
 }
